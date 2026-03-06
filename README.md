@@ -2,6 +2,7 @@
 |---|---|---|---|---|---|
 |WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images|WaterGAN||2017|[Robotics and Automation Letters](https://arxiv.org/abs/1702.07392)|[Tensorflow](https://github.com/kskin/WaterGAN)|
 |Exemplar-based Underwater Image Enhancement Augmented by Wavelet Corrected Transforms|||2019|[CVPR Workshop](https://openaccess.thecvf.com/content_CVPRW_2019/html/AAMVEM/Jamadandi_Exemplar-based_Underwater_Image_Enhancement_Augmented_by_Wavelet_Corrected_Transforms_CVPRW_2019_paper.html)|[Pytorch](https://github.com/AdarshMJ/Underwater-Image-Enhancement-via-Style-Transfer)|
+|An Underwater Image Enhancement Benchmark Dataset and Beyond|WaterNet||2019|[IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/8917818)|[Tensorflow](https://github.com/Li-Chongyi/Water-Net_Code)|
 |Fast Underwater Image Enhancement for Improved Visual Perception|FUnIE-GAN||2020|[Robotics and Automation Letters](https://ieeexplore.ieee.org/document/9001231)|[Pytorch](https://github.com/xahidbuffon/FUnIE-GAN)|
 |UIEC^2-Net: CNN-based Underwater Image Enhancement Using Two Color Space|UIECˆ2-Net||2021|[Signal Processing: Image Communication](https://arxiv.org/abs/2103.07138)|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)|
 
