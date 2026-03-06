@@ -5,6 +5,6 @@
 |An Underwater Image Enhancement Benchmark Dataset and Beyond|WaterNet||2019|[IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/8917818)|[Tensorflow](https://github.com/Li-Chongyi/Water-Net_Code)|
 |Unsupervised Single Image Underwater Depth Estimation|UW-Net||2019|[International Conference on Image Processing](https://ieeexplore.ieee.org/document/8917818)|[Tensorflow](https://github.com/honeygupta/UW-Net)|
 |Fast Underwater Image Enhancement for Improved Visual Perception|FUnIE-GAN||2020|[Robotics and Automation Letters](https://ieeexplore.ieee.org/document/9001231)|[Pytorch](https://github.com/xahidbuffon/FUnIE-GAN)|
-|UIEC^2-Net: CNN-based Underwater Image Enhancement Using Two Color Space|UIECˆ2-Net||2021|[Signal Processing: Image Communication](https://arxiv.org/abs/2103.07138)|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)|
+|UIEC^2-Net: CNN-based Underwater Image Enhancement Using Two Color Space|UIECˆ2-Net|CNN|2021|[Signal Processing: Image Communication](https://arxiv.org/abs/2103.07138)|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)|
 
 
